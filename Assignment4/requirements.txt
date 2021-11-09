@@ -1,0 +1,1 @@
+It is required to install flask, sqlalchemy, psycopg2 and BeautifulSoup before using this code.
